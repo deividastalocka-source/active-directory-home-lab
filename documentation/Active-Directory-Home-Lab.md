@@ -94,6 +94,9 @@ o	NAT networking
 Outcome
 The virtual machine was successfully created and booted into the Windows Server installer.
 Screenshot
+<img width="895" height="503" alt="image" src="https://github.com/user-attachments/assets/eb68395c-1b2c-4672-a1b3-d27e7927e816" />
+
+
  
 Step 2 – Server Manager - Local Server
 Objective
