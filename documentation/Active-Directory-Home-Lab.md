@@ -531,4 +531,39 @@ Windows Server 2025 was successfully configured as the first Domain Controller w
 
 > **Screenshot:** `screenshots/24-domain-controller-complete.png`
 
+# Lessons Learned
+
+Throughout this project I gained practical experience configuring Windows Server 2025 and deploying an Active Directory Domain Services environment. I developed a greater understanding of server administration, networking, Domain Controllers and Active Directory infrastructure while following enterprise deployment practices.
+
+The project also reinforced the importance of planning, troubleshooting and documenting technical implementations, providing valuable experience relevant to IT Support and Systems Administration roles.
+
+---
+
+# Skills Demonstrated
+
+- Windows Server Administration
+- Active Directory
+- VMware Workstation Pro
+- Virtualisation
+- System Administration
+- Networking
+- Technical Documentation
+- Troubleshooting
+
+---
+
+# Future Improvements
+
+This project will continue to be expanded with additional enterprise technologies, including:
+
+- DNS configuration
+- DHCP configuration
+- Organisational Units (OUs)
+- Active Directory users and groups
+- Group Policy Objects (GPOs)
+- Windows 11 domain join
+- Shared folders and NTFS permissions
+- PowerShell administration
+- Active Directory administration and maintenance
+
 ---
